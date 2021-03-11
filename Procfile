@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True plant_classifier_app.ipynb
+web: voila --port=$PORT --no-browser --show_tracebacks=True --enable_nbextensions=True plant_classifier_app.ipynb
